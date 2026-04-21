@@ -1,6 +1,6 @@
 # Mouse-cover
 it's a mouse 
 
-# View the model on Onshape
-(https://cad.onshape.com/documents/9e0ba5e9750ade6286cdde41/w/f080bf33831c510b1f782ea4/e/03e6f28a1ca8d6be47321d0c?renderMode=0&uiState=69e7438844ce43a791534f12)
+# View the mouse model on Onshape
+https://cad.onshape.com/documents/9e0ba5e9750ade6286cdde41/w/f080bf33831c510b1f782ea4/e/03e6f28a1ca8d6be47321d0c?renderMode=0&uiState=69e7438844ce43a791534f12
 
