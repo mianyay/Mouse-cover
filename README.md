@@ -9,6 +9,6 @@ it's a mouse
 | Name | Quantity | Price (AUD) | Price (USD) | Link |
 |------|----------|-------------|-------------|------|
 | Bambu Lab Wireless Mouse Components Kit | 1 | $28.00 | $19.95 | [Bambu Lab AU Store](https://au.store.bambulab.com/products/wireless-mouse-components-kit-002) |
-| Filament for Mouse Base + Casing | ~70g | ~$2.10 | $1.50 | See in Mouse.zip |
+| Filament for Mouse Base + Casing | ~100g | ~$3 | $2.14 | See in Mouse.zip |
 
 
