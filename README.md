@@ -1,5 +1,5 @@
 # Mouse-cover
-it's a mouse 
+A cover designed for a mouse, specifically for the Bambu Lab Wireless Mouse Components Kit. The cover will be 3D printed and then connected with the kit.
 
 ## View the mouse model on Onshape
 [View on Onshape]
