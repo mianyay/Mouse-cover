@@ -8,7 +8,7 @@ This is a cover designed for a mouse, specifically for the Bambu Lab Wireless Mo
 ## Bill of Material
 | Name | Quantity | Price (AUD) | Price (USD) | Link |
 |------|----------|-------------|-------------|------|
-| Bambu Lab Wireless Mouse Components Kit | 1 | $28.00 | $19.95 | [Bambu Lab AU Store](https://au.store.bambulab.com/products/wireless-mouse-components-kit-002) |
-| Filament for Mouse Base + Casing + Mid | ~100g | ~$3 | $2.14 | See in part 22.stl |
+| Bambu Lab Wireless Mouse Components Kit | 1 | $28.00 | ~$20 | [Bambu Lab AU Store](https://au.store.bambulab.com/products/wireless-mouse-components-kit-002) |
+| Filament for Mouse Base + Casing + Mid | ~100g | ~$3 | ~$2.5 | See in part 22.stl |
 
 
