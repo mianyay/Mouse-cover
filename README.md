@@ -1,5 +1,5 @@
 # Mouse-cover
-A cover designed for a mouse, specifically for the Bambu Lab Wireless Mouse Components Kit. The cover will be 3D printed and then connected with the kit.
+This is a cover designed for a mouse, specifically for the Bambu Lab Wireless Mouse Components Kit. The cover was made on Onshape CAD. The cover and mid will be 3D printed and then connected with the kit.
 
 ## View the mouse model on Onshape
 [View on Onshape]
@@ -9,6 +9,6 @@ A cover designed for a mouse, specifically for the Bambu Lab Wireless Mouse Comp
 | Name | Quantity | Price (AUD) | Price (USD) | Link |
 |------|----------|-------------|-------------|------|
 | Bambu Lab Wireless Mouse Components Kit | 1 | $28.00 | $19.95 | [Bambu Lab AU Store](https://au.store.bambulab.com/products/wireless-mouse-components-kit-002) |
-| Filament for Mouse Base + Casing + Mid | ~100g | ~$3 | $2.14 | See in Mouse.zip |
+| Filament for Mouse Base + Casing + Mid | ~100g | ~$3 | $2.14 | See in part 22.stl |
 
 
