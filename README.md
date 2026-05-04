@@ -20,6 +20,9 @@ The AUD and USD conversion constantly changes, so it's not completely accurate.
 
 <img width="529" height="763" alt="image" src="https://github.com/user-attachments/assets/87b4cca7-1108-415a-abc3-48bbd5cccecb" />
 
+<img width="793" height="306" alt="image" src="https://github.com/user-attachments/assets/720f4800-a9db-45a6-aa79-4253830d03fe" />
+
+
 
 
 
