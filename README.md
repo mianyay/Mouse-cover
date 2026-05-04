@@ -1,5 +1,5 @@
 # Mouse-cover
-This is a cover designed for a mouse, specifically for the Bambu Lab Wireless Mouse Components Kit. The cover was made on Onshape CAD. The cover and mid will be 3D printed and then connected with the kit.
+This is a cover designed for a mouse, specifically for the Bambu Lab Wireless Mouse Components Kit. The cover was made on Onshape CAD. The cover and mid will be 3D printed and then connected with the kit. I built this mouse to learn more about hardware design; this is my first time doing it.
 
 ## View the mouse model on Onshape
 [View on Onshape]
@@ -12,5 +12,15 @@ This is a cover designed for a mouse, specifically for the Bambu Lab Wireless Mo
 | Filament for Mouse Base + Casing + Mid | ~100g | ~$3 | ~$2.5 | See in part 22.stl |
 
 The AUD and USD conversion constantly changes, so it's not completely accurate.
+
+## Pictures
+<img width="626" height="813" alt="image" src="https://github.com/user-attachments/assets/049dabad-4bbf-4b17-96f2-58b451d8b872" />
+
+<img width="961" height="679" alt="image" src="https://github.com/user-attachments/assets/8a37c1e3-2925-49bf-b0e9-3f24f7d28da3" />
+
+<img width="529" height="763" alt="image" src="https://github.com/user-attachments/assets/87b4cca7-1108-415a-abc3-48bbd5cccecb" />
+
+
+
 
 
